@@ -13,6 +13,7 @@ namespace Practice1
             Console.WriteLine("Learn the Git Commands properly");
             Console.WriteLine("Welcome to Git-Hub");
             Console.WriteLine("Learnt with Git-Hub Commands");
+            Console.WriteLine("Hiiiiiii");
             Console.ReadLine();
         }
     }
