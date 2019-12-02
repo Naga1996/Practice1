@@ -10,6 +10,7 @@ namespace Practice1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Learn the Git Commands properly");
             Console.WriteLine("Welcome to Git-Hub");
             Console.ReadLine();
         }
